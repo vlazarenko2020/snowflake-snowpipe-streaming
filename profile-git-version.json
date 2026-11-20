@@ -1,0 +1,7 @@
+{
+    "user": "SSV2_DEMO_USER",
+    "account": "<YOUR_ACCOUNT_IDENTIFIER>",
+    "url": "https://<YOUR_ACCOUNT_IDENTIFIER>.snowflakecomputing.com:443",
+    "private_key_file": "rsa_key.p8",
+    "role": "SSV2_DEMO_ROLE"
+}

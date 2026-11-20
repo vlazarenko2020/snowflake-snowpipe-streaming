@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets / local config (do not commit)
+rsa_key.p8
+rsa_key.pub
+profile.json
+1-Create-snowflake-Objects.sql
+.env
